@@ -50,7 +50,7 @@ Serão implementados inicialmente programas para ler e armazenar as informaçõe
 
 ## Licença MIT
 
-Direitos autorais (c) 2024 Liedson Da Silva Santos
+Direitos autorais (c)  2024 João Carlos
 
 É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar

@@ -40,8 +40,8 @@ Simples assim. Caso não consigam:
 
 3. Abra a pasta no VSCode.
 
-4. Por fim, rode o código utilizando o seguinte comando:
-   python att48.py //Exemplo, pois pode rodar os outros códigos disponíveis.
+4. Por fim, rode o código do arquivo (Geral.py) utilizando o seguinte comando:
+   python Geral.py //Exemplo, pois pode rodar os outros códigos disponíveis.
 
 
 ## Algoritmos

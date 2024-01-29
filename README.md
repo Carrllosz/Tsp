@@ -75,4 +75,4 @@ PROGRAMAS.**
 1. João Carlos joaocar2003@gmail.com
 1. Isaac Kawan isaakawan123456@gmail.com
 1. Ana Beatriz beatriz.ana.silva1006@gmail.com
-1. Liedson da Silva Santos liedson146@gmail.com
+1. Liedson Santos liedson146@gmail.com

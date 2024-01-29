@@ -70,6 +70,12 @@ RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA
 FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
 PROGRAMAS.**
 
+## Hardware sugerido
+Processador 2.6 GHz Intel Core i7, com 16 GB 1600 MHz DDR3 e HD 1TB.
+
+## Software necessário
+Todo o projeto está rodando em python 3.10
+
 ## Contato dos Desenvolvedores
 
 1. João Carlos joaocar2003@gmail.com

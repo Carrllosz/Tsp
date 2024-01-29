@@ -17,22 +17,6 @@ Os valores das soluções para cada base de dados estão indicados na página da
 O projeto foi desenvolvido usando Python 3.11.6.
 
 ## Como Usar
-1. Clone o Repositório:
-
-Clone este repositório em sua máquina local usando o seguinte comando:
-
- git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Liedson1/Caixeiro-viajante/tree/main)
-
-2. Navegue até o Diretório:
-
-Acesse o diretório do projeto:
- cd seu-repositorio
-
-3. Execute o Programa:
-python att48.py:
-
-Simples assim. Caso não consigam: 
-
 1. Na seção <> Code:
    Faça o download ZIP do código
 

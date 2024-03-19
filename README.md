@@ -33,27 +33,29 @@ O projeto foi desenvolvido usando Python 3.11.6.
 Serão implementados inicialmente programas para ler e armazenar as informações numa estrutura de dados(nesse caso, utilizamos uma lista). Logo em seguida, serão implementados algoritmos para encontrar os caminhos mínimos para cada base de dados. Os resultados serão comparados com os valores conhecidos de solução para avaliação da eficácia dos algoritmos.
 
 ## Resultados obtidos:
-Algoritmo	Base de Dados	Peso Total	Valor Esperado
-Prim	ATT48	27670	27670
-Prim	DANTZIG42	591	591
-Prim	FRI26	741	741
-Prim	GR17	1421	1421
-Prim	P01	260	260
-Dijkstra	ATT48	50831.0	33523
-Dijkstra	DANTZIG42	1126.0	699
-Dijkstra	FRI26	1436.0	937
-Dijkstra	GR17	3401.0	2085
-Dijkstra	P01	441.0	291
-Força Bruta	ATT48	45175.0	33523
-Força Bruta	DANTZIG42	960.0	699
-Força Bruta	FRI26	1037.0	937
-Força Bruta	GR17	2686.0	2085
-Força Bruta	P01	303.0	291
-Christofides	ATT48	1176	33523
-Christofides	DANTZIG42	903	699
-Christofides	FRI26	351	937
-Christofides	GR17	153	2085
-Christofides	P01	120	291
+| Algoritmo     | Base de Dados | Peso Total | Valor Esperado |
+|---------------|---------------|------------|----------------|
+| Prim          | ATT48         | 27670      | 27670          |
+| Prim          | DANTZIG42     | 591        | 591            |
+| Prim          | FRI26         | 741        | 741            |
+| Prim          | GR17          | 1421       | 1421           |
+| Prim          | P01           | 260        | 260            |
+| Dijkstra      | ATT48         | 35235.0    | 33523          |
+| Dijkstra      | DANTZIG42     | 699        | 699            |
+| Dijkstra      | FRI26         | 1436.0     | 937            |
+| Dijkstra      | GR17          | -          | 2085           |
+| Dijkstra      | P01           | -          | 291            |
+| Força Bruta   | ATT48         | -          | 33523          |
+| Força Bruta   | DANTZIG42     | -          | 699            |
+| Força Bruta   | FRI26         | -          | 937            |
+| Força Bruta   | GR17          | -          | 2085           |
+| Força Bruta   | P01           | -          | 291            |
+| Christofides  | ATT48         | 1176       | 33523          |
+| Christofides  | DANTZIG42     | 3393       | 699            |
+| Christofides  | FRI26         | 3322       | 937            |
+| Christofides  | GR17          | 6759       | 2085           |
+| Christofides  | P01           | 761        | 291            |
+
 
 ## Licença MIT
 

@@ -24,19 +24,19 @@ def calcular_distancia_total(rota, grafo):
     distancia_total += grafo[rota[-1]][rota[0]]
     return distancia_total
 
+
 def forca_bruta_pcv(grafo):
-    cidades = list(grafo.keys())
-    n = len(cidades)
     menor_distancia = sys.maxsize
     melhor_rota = None
 
-    for rota in itertools.permutations(cidades):
+    for rota in itertools.permutations(grafo.keys()):
         distancia_total = calcular_distancia_total(rota, grafo)
         if distancia_total < menor_distancia:
             menor_distancia = distancia_total
             melhor_rota = rota
 
     return menor_distancia, melhor_rota
+
 
 
 def processar_base(arquivo):

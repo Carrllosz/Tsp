@@ -18,10 +18,9 @@ def imprimir_matriz_dicionario(matriz):
 def calcular_distancia_total(rota, grafo):
     distancia_total = 0
     n = len(rota)
-    for i in range(n - 1):
-        origem, destino = rota[i], rota[i + 1]
+    for i in range(n):
+        origem, destino = rota[i], rota[(i + 1) % n)]
         distancia_total += grafo[origem][destino]
-    distancia_total += grafo[rota[-1]][rota[0]]
     return distancia_total
 
 

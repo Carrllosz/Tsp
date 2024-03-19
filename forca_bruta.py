@@ -19,7 +19,7 @@ def calcular_distancia_total(rota, grafo):
     distancia_total = 0
     n = len(rota)
     for i in range(n):
-        origem, destino = rota[i], rota[(i + 1) % n)]
+        origem, destino = rota[i], rota[(i + 1) % n]
         distancia_total += grafo[origem][destino]
     return distancia_total
 

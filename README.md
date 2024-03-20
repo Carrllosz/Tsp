@@ -30,7 +30,7 @@ O projeto foi desenvolvido usando Python 3.11.6.
 
 ## Algoritmos
 
-Serão implementados inicialmente programas para ler e armazenar as informações numa estrutura de dados(nesse caso, utilizamos uma lista). Logo em seguida, serão implementados algoritmos para encontrar os caminhos mínimos para cada base de dados. Os resultados serão comparados com os valores conhecidos de solução para avaliação da eficácia dos algoritmos.
+Serão implementados inicialmente programas para ler e armazenar as informações numa estrutura de dados(nesse caso, utilizamos um dicionário). Logo em seguida, serão implementados algoritmos para encontrar os caminhos mínimos para cada base de dados. Os resultados serão comparados com os valores conhecidos de solução para avaliação da eficácia dos algoritmos.
 
 ## Resultados obtidos:
 | Algoritmo     | Base de Dados | Peso Total | Valor Esperado |
